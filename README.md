@@ -15,7 +15,7 @@ Before running your ResFungi analysis, you need to generate the gene/protein mod
 After that step, you should have a FASTA file with your predicted proteome, which can be used to run ResFungi.
 
 
-Below is the summarized pipeline we used to search for antifungal resistance genes (AFRs) after you have you proteome in FASTA file:
+Below is the summarized pipeline we used to search for antifungal resistance genes (AFRs) after you have your proteome in FASTA file:
 
 
 1-Download and install HMMER3 (http://hmmer.org/)
