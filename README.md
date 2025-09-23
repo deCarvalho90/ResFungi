@@ -18,7 +18,7 @@ Here's a step-by-step explanation to perform analyses using ResFungi:
 ## 0 - Downloading the proteome file
 
 
-Before you start your analysis, make sure the target species you want to study has a sequenced genome with a proteome file available. The ResFungi search is performed in the fasta file that contains all of the protein amino acid sequences.
+Before you start your analysis, make sure the target species you want to study has a sequenced genome with a proteome file available. The ResFungi search is performed on the fasta file that contains all of the protein amino acid sequences.
 
   
 ## 1 - Installing HMMER
