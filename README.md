@@ -46,7 +46,7 @@ After running this command, HMMER will generate other files, meaning your ResFun
 After compressing the .hmm file, run the software hmmscan to identify genes in the proteome of the species you want to analyze. Here's an example command
 
 
-> hmmscan  --noali --domtblout ResFungi.hmm your_proteome_file.fasta
+> hmmscan  --noali --domtblout outputfile.txt ResFungi.hmm your_proteome_file.fasta
 
 
 For further explanation of usage and outputs from hmmscan, please check their user's guide (http://eddylab.org/software/hmmer/Userguide.pdf).
